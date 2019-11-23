@@ -5,3 +5,9 @@ python 3.7.1 64-bit
 simply 1.4
 scipy 1.1.0
 numpy 1.15.4
+
+pyfiles:
+lfit.py : 
+    uncertainty caused by linear fitting
+patial_and_uncertainty_propagation.py:
+    uncertainty caused by uncertainty propagation
