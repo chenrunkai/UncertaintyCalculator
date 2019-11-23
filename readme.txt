@@ -11,3 +11,8 @@ lfit.py :
     uncertainty caused by linear fitting
 patial_and_uncertainty_propagation.py:
     uncertainty caused by uncertainty propagation
+    all formula should be in python forms.
+        ex:
+            sin(x) rather than sinx
+            m*g rather than mg
+            
